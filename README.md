@@ -1,7 +1,7 @@
 # AndroidLanguageUtils
 多语言工具类
 
-[![](https://jitpack.io/v/18513578395/AndroidLanguageUtils.svg)](https://jitpack.io/#18513578395/AndroidLanguageUtils)
+[![](https://jitpack.io/v/zhuoCreator/AndroidLanguageUtils.svg)](https://jitpack.io/#zhuoCreator/AndroidLanguageUtils)
 
 
 
