@@ -22,7 +22,7 @@ Step 2. Add the dependency
 
 dependencies {
 	       
-         implementation 'com.github.18513578395:AndroidLanguageUtils:1.0.0'
+         implementation 'com.github.zhuoCreator:AndroidLanguageUtils:1.0.0'
 
 }
 
